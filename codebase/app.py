@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import random
 
-WIDTH = HEIGHT = 100
+WIDTH = HEIGHT = 1000
 
 blank_grayscale_img = np.zeros((WIDTH, HEIGHT, 1), dtype=np.uint8)
 
