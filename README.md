@@ -1,2 +1,2 @@
-# nft-generator
+# *NFT Generator*
 NFT go brrrrrrrrr
